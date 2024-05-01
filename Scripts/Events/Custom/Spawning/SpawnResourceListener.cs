@@ -1,0 +1,1 @@
+public class SpawnResourceListener : BaseGameEventListener<packet.ResourceGameObjectPacket, SpawnResourceEvent, UnitySpawnResourceEvent> {}

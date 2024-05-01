@@ -1,0 +1,1 @@
+public class UpdateButtonCostTextListener : BaseGameEventListener<packet.UpdateButtonCostTextPacket, UpdateButtonCostTextEvent, UnityButtonCostTextEvent> {}

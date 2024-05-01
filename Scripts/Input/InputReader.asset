@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d4d9a6097324e345864a14cff49d7ba, type: 3}
+  m_Name: InputReader
+  m_EditorClassIdentifier: 
+  ControlStateUpdated: {fileID: 11400000, guid: 8e2fb6dd0e2ee9a46be69cec3253465d, type: 2}
+  ZoomIn: {fileID: 11400000, guid: 167d15a813801274dbc1eb761163d610, type: 2}
+  ZoomOut: {fileID: 11400000, guid: 4f111cf133a3ea14db11c9019b203d78, type: 2}
+  RotateCameraWithPlayer: {fileID: 11400000, guid: d2f4530811087264aa77e90477821ca5, type: 2}
+  PlayerMove: {fileID: 11400000, guid: f3620e615e995274eb93748624719598, type: 2}
+  PlayerJump: {fileID: 11400000, guid: 789fc49fa1fc10440b8c1006f5ab6a6d, type: 2}
+  PlayerSprint: {fileID: 11400000, guid: b01174c8f7e2456468aa3aaf697df93d, type: 2}
+  PlayerCrouch: {fileID: 11400000, guid: ba1fdff7e15dad54eae54cb7328a029b, type: 2}
+  PlayerInteract: {fileID: 11400000, guid: b201a2577f282c94d90d2bfd7f7f619b, type: 2}
+  PlayerBuildOverlay: {fileID: 11400000, guid: 43dda87bd996c3a419a00d01f438c121, type: 2}
+  PlayerBuildOverlayCycleLeft: {fileID: 11400000, guid: 3c0b26c2b7a9f45f98f62ad27811b805, type: 2}
+  PlayerBuildOverlayCycleRight: {fileID: 11400000, guid: c55e9f4c319f64f5782de4cfa355865b, type: 2}
+  PlayerInventoryOverlay: {fileID: 11400000, guid: 731f79df71744ec43954fc41422a88c8, type: 2}
+  PlayerFlashlightToggle: {fileID: 11400000, guid: 9f397810862554eddb35a07037e6fb8e, type: 2}
+  PlayerPickupRobot: {fileID: 11400000, guid: 8e260297b9887444b83a446ae76b6da7, type: 2}
+  PlayerObjectiveOverlay: {fileID: 11400000, guid: aa04b7753342a764d8a61b52ba0abe53, type: 2}
+  SatelliteMove: {fileID: 11400000, guid: 6fca2a4f2e0e4c34dbc24956048aa2ad, type: 2}
+  SatelliteScan: {fileID: 11400000, guid: 36fa7ae261644ea44afd0f8a3f6fded8, type: 2}
+  SatelliteControlToggle: {fileID: 11400000, guid: fae0acc09c97d794980f4c477edcf45f, type: 2}
+  GamePause: {fileID: 11400000, guid: c09b3fa930dbafa4b88e2c8f6a8f8980, type: 2}
+  GameResume: {fileID: 11400000, guid: bea6049e22647944688836eb5e257b11, type: 2}
+  RobotBuddyMove: {fileID: 11400000, guid: e2f6c75a4f1504fad91dcacff9ef0ad1, type: 2}
+  RobotBuddyInteract: {fileID: 11400000, guid: 785f1221415074d0284dcf6a994842d3, type: 2}
+  RobotJump: {fileID: 11400000, guid: 921b302f9cf4648bebaafcf9604fa8d7, type: 2}

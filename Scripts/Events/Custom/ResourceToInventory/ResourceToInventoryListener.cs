@@ -1,0 +1,1 @@
+public class ResourceToInventoryListener : BaseGameEventListener<packet.ResourceToInventory, ResourceToInventoryEvent, UnityResourceToInventoryEvent> {}

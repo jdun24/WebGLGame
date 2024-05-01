@@ -1,0 +1,1 @@
+public class RobotUIListener : BaseGameEventListener<packet.RobotUIPacket, RobotUIEvent, UnityRobotUIEvent> {}

@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 8d4d9a6097324e345864a14cff49d7ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ControlStateUpdated: {instanceID: 0}
+  - ZoomIn: {instanceID: 0}
+  - ZoomOut: {instanceID: 0}
+  - PlayerMove: {instanceID: 0}
+  - PlayerJump: {instanceID: 0}
+  - PlayerSprint: {instanceID: 0}
+  - PlayerCrouch: {instanceID: 0}
+  - PlayerInteract: {instanceID: 0}
+  - PlayerBuildOverlay: {instanceID: 0}
+  - PlayerBuildOverlayCycleLeft: {instanceID: 0}
+  - PlayerBuildOverlayCycleRight: {instanceID: 0}
+  - PlayerInventoryOverlay: {instanceID: 0}
+  - PlayerObjectiveOverlay: {instanceID: 0}
+  - SatelliteMove: {instanceID: 0}
+  - SatelliteScan: {instanceID: 0}
+  - GamePause: {instanceID: 0}
+  - GameResume: {instanceID: 0}
+  - RobotBuddyMove: {instanceID: 0}
+  - RobotBuddyInteract: {instanceID: 0}
+  executionOrder: -1100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 80668cb2119a042fdb493105323596fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - robotBuddyDied: {fileID: 11400000, guid: 2eb25a4a88d81004fa60e0a3c366610a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
